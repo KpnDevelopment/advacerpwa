@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/advacerpwa/static/css/main.5719f4d3.chunk.css",
+    "main.js": "/advacerpwa/static/js/main.93f90e73.chunk.js",
+    "main.js.map": "/advacerpwa/static/js/main.93f90e73.chunk.js.map",
+    "runtime-main.js": "/advacerpwa/static/js/runtime-main.55e0c089.js",
+    "runtime-main.js.map": "/advacerpwa/static/js/runtime-main.55e0c089.js.map",
+    "static/css/2.15a7a700.chunk.css": "/advacerpwa/static/css/2.15a7a700.chunk.css",
+    "static/js/2.f73decba.chunk.js": "/advacerpwa/static/js/2.f73decba.chunk.js",
+    "static/js/2.f73decba.chunk.js.map": "/advacerpwa/static/js/2.f73decba.chunk.js.map",
+    "static/js/3.cb2be5b3.chunk.js": "/advacerpwa/static/js/3.cb2be5b3.chunk.js",
+    "static/js/3.cb2be5b3.chunk.js.map": "/advacerpwa/static/js/3.cb2be5b3.chunk.js.map",
+    "index.html": "/advacerpwa/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/advacerpwa/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.5719f4d3.chunk.css.map": "/advacerpwa/static/css/main.5719f4d3.chunk.css.map",
+    "static/js/2.f73decba.chunk.js.LICENSE.txt": "/advacerpwa/static/js/2.f73decba.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advacerpwa/static/media/bg.8c2ed522.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e0c089.js",
+    "static/css/2.15a7a700.chunk.css",
+    "static/js/2.f73decba.chunk.js",
+    "static/css/main.5719f4d3.chunk.css",
+    "static/js/main.93f90e73.chunk.js"
+  ]
+}
